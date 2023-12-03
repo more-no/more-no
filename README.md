@@ -5,7 +5,7 @@
 <h4>I love diving into Backend development, creating solid solutions with JavaScript, TypeScript, Node.js, and PostgreSQL. Proficient in building Full-Stack applications with React, Next.js and REST APIs, I prioritize code quality through rigorous testing with Jest and Playwright. </h4>
 <h4> My academic career took me to the highest levels of international research. Transitioned to the culinary world in luxury hotels and fine dining, I bring strong work ethic, collaborative spirit and a creative perspective to all I do. My background has equipped me with the ability to adapt to any challenge, organize effectively and think critically.</h4>
 
-- 🔭 I’m currently working on [OpenTribe](opentribe.fly.dev/)
+- 🔭 I’m currently working on [OpenTribe](https://opentribe.fly.dev/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/more-no](https://github.com/more-no)
 
