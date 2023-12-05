@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=more-no&show_icons=true&locale=en&layout=compact" alt="more-no" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=more-no&show_icons=true&locale=en" alt="more-no" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=more-no&" alt="more-no" /></p>
