@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on [OpenTribe](https://opentribe.fly.dev/)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/more-no)
-
-- 📫 How to reach me **moreno.dore@tuta.io**
+- 📫 How to reach me: **moreno.dore@tuta.io**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/moreno-dore/)
 
