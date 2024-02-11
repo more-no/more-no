@@ -2,10 +2,12 @@
 
 <h3>A FullStack Web developer from Italy, living in Vienna.</h3>
 
-<h4>As a developer I love creating solid solutions with JavaScript, TypeScript, Node.js and PostgreSQL. Building Full-Stack applications with React, Next.js and REST APIs, I prioritize code quality through rigorous testing with Jest and Playwright. </h4>
-<h4> My academic career took me to the highest levels of international research. Transitioned to the culinary world in luxury hotels and fine dining, I bring strong work ethic, collaborative spirit and a creative perspective to all I do. My background has equipped me with the ability to adapt to any challenge, organize effectively and think critically.</h4>
+<h4>My academic career took me to the highest levels of international research, I then transitioned to the culinary world in luxury hotels and fine dining: I bring strong work ethic and a creative perspective to all I do.</h4>
+  
+<h4>A diverse background has equipped me with the ability to adapt to any challenge, organize tasks efficiently and approach situations with a critical mindset. </h4>
+  
+<h4>I am an independent learner with strong problem solving skills but I also love working in a team: I am collaborative, like to share ideas and solutions and try to bring a calming and positive energy also when under stress.</h4>
 
-- 🔭 I’m currently working on  =>  [OpenTribe](https://opentribe.fly.dev/)
 
 - 📫 How to reach me  =>  **moreno.dore@tuta.io**
 
@@ -15,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,express,react,redux,nextjs,postgres,postman,jest,sass,styledcomponents,tailwind,figma,vscode,githubactions&perline=9"  />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,nestjs,react,redux,nextjs,postgres,postman,jest,sass,styledcomponents,tailwind,figma,vscode,githubactions&perline=9"  />
   </a>
 </p>
 
