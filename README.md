@@ -9,8 +9,6 @@
 <h4>I am an independent learner with strong problem solving skills but I also love working in a team: I am collaborative, like to share ideas and solutions and try to bring a calming and positive energy also when under stress.</h4>
 
 
-- 📫 How to reach me  =>  **moreno.dore@tuta.io**
-
 - 📄 Know about my experiences  =>  [Linkedin](https://www.linkedin.com/in/moreno-dore/)
 
 <h3 align="center">Tech skills:</h3>
