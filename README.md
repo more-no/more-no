@@ -2,7 +2,7 @@
 
 <h3>A Full-Stack Developer from Italy, living in Vienna.</h3>
   
-<h4>I am an independent learner with strong problem solving skills but I also love working in a team: I am collaborative, like to share ideas and solutions and try to bring a calming and positive energy also when under stress.</h4>
+<h4>I am an independent learner with strong problem solving skills but I also love working in a team: I am collaborative, like to share ideas and solutions and try to bring a positive energy also when under stress.</h4>
 
 
 - 📄 Know about my experiences  =>  [Linkedin](https://www.linkedin.com/in/moreno-dore/)
