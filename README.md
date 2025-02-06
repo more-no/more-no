@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,nextjs,postgres,mongodb,jest&perline=9"  />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,,nextjs,vue,nuxtjs,tailwind,nestjs,postgres,webstorm,vscode&perline=9"  />
   </a>
 </p>
 
